@@ -67,7 +67,7 @@ window.minsize(1000,600)
 
 
 
-background_image  = PhotoImage(file="images/card_front.png")
+background_image  = PhotoImage(file="images/background.png")
 
 
 canvas = Canvas()
